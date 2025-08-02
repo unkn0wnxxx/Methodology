@@ -11,7 +11,7 @@ davtest -url http://<target_ip>/webdav/
 
 Authorized Access
 
-davtest -auth bob:password http://<target_ip>/webdav/
+davtest -auth bob:password -url http://<target_ip>/webdav/
 
 The next step would be to use the cadaver tool, it will help to actually download, delete
 edit and upload files into the directory.
