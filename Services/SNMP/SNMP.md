@@ -20,7 +20,7 @@ Another tool which displays us actual information about queries and responses is
 snmpwalk -v 2c -c openview 10.10.38.124 1.3.6.1.4.1.77.1.2.25
 ```
 
-snmpwalk utility for queuering multiple OIDs sequentially
--v 2c uses SNMP version 2c
--c openview stands for the Community string (password) is "openview"
-1.3.6.1.4.1.77.1.2.25 is the OID for Windows user account enumeration
+- snmpwalk utility for queuering multiple OIDs sequentially 
+- -v 2c uses SNMP version 2c 
+- -c openview stands for the Community string (password) is "openview"
+- 1.3.6.1.4.1.77.1.2.25 is the OID for Windows user account enumeration
