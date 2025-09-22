@@ -18,3 +18,26 @@ PORT   STATE SERVICE
 
 Nmap done: 1 IP address (1 host up) scanned in 0.49 seconds
 ```
+
+Utilizing netcatexec we can enumerate users
+
+```
+nxc smb dc01.soupedecode.local -u 'guest' -p '' --rid
+```
+
+
+```
+
+```
+
+
+
+```
+
+```
+
+
+
+```
+
+```
