@@ -1,0 +1,22 @@
+# Dirsearch started Sat Oct 25 20:35:37 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://api.mentorquotes.htb/
+
+307     0B   http://api.mentorquotes.htb/admin    -> REDIRECTS TO: http://api.mentorquotes.htb/admin/
+422   186B   http://api.mentorquotes.htb/admin/
+307     0B   http://api.mentorquotes.htb/admin/backup/    -> REDIRECTS TO: http://api.mentorquotes.htb/admin/backup
+405    31B   http://api.mentorquotes.htb/auth/login
+200   969B   http://api.mentorquotes.htb/docs
+307     0B   http://api.mentorquotes.htb/docs/    -> REDIRECTS TO: http://api.mentorquotes.htb/docs
+200     7KB  http://api.mentorquotes.htb/openapi.json
+200   772B   http://api.mentorquotes.htb/redoc
+403   285B   http://api.mentorquotes.htb/server-status
+403   285B   http://api.mentorquotes.htb/server-status/
+307     0B   http://api.mentorquotes.htb/users    -> REDIRECTS TO: http://api.mentorquotes.htb/users/
+307     0B   http://api.mentorquotes.htb/users/admin.php    -> REDIRECTS TO: http://api.mentorquotes.htb/users/admin.php/
+422   186B   http://api.mentorquotes.htb/users/
+307     0B   http://api.mentorquotes.htb/users/admin    -> REDIRECTS TO: http://api.mentorquotes.htb/users/admin/
+307     0B   http://api.mentorquotes.htb/users/login    -> REDIRECTS TO: http://api.mentorquotes.htb/users/login/
+307     0B   http://api.mentorquotes.htb/users/login.aspx    -> REDIRECTS TO: http://api.mentorquotes.htb/users/login.aspx/
+307     0B   http://api.mentorquotes.htb/users/login.jsp    -> REDIRECTS TO: http://api.mentorquotes.htb/users/login.jsp/
+307     0B   http://api.mentorquotes.htb/users/login.php    -> REDIRECTS TO: http://api.mentorquotes.htb/users/login.php/
+307     0B   http://api.mentorquotes.htb/users/login.html    -> REDIRECTS TO: http://api.mentorquotes.htb/users/login.html/
+307     0B   http://api.mentorquotes.htb/users/login.js    -> REDIRECTS TO: http://api.mentorquotes.htb/users/login.js/
