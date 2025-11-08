@@ -1,0 +1,22 @@
+# Dirsearch started Fri Nov  7 11:03:29 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://192.168.158.55/Webalizer/
+
+403     1KB  http://192.168.158.55/Webalizer/%3f/
+403     1KB  http://192.168.158.55/Webalizer/%ff
+403     1KB  http://192.168.158.55/Webalizer/%C0%AE%C0%AE%C0%AF
+403     1KB  http://192.168.158.55/Webalizer/.ht_wsr.txt
+403     1KB  http://192.168.158.55/Webalizer/.htaccess.orig
+403     1KB  http://192.168.158.55/Webalizer/.htaccess.sample
+403     1KB  http://192.168.158.55/Webalizer/.htaccess.save
+403     1KB  http://192.168.158.55/Webalizer/.htaccess_orig
+403     1KB  http://192.168.158.55/Webalizer/.htaccess.bak1
+403     1KB  http://192.168.158.55/Webalizer/.htaccessOLD2
+403     1KB  http://192.168.158.55/Webalizer/.htm
+403     1KB  http://192.168.158.55/Webalizer/.httr-oauth
+403     1KB  http://192.168.158.55/Webalizer/.htpasswds
+403     1KB  http://192.168.158.55/Webalizer/.htaccess_sc
+403     1KB  http://192.168.158.55/Webalizer/.htaccess_extra
+403     1KB  http://192.168.158.55/Webalizer/.html
+403     1KB  http://192.168.158.55/Webalizer/.htaccessOLD
+403     1KB  http://192.168.158.55/Webalizer/.htaccessBAK
+403     1KB  http://192.168.158.55/Webalizer/.htpasswd_test
+403     1KB  http://192.168.158.55/Webalizer/index.php::$DATA
