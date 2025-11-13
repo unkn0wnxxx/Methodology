@@ -19,7 +19,7 @@ You can utilize the hosts file whenever u wanna map a certain domain to an ip ad
 e.G you can get the ip of google and save the ip of google to another domain named --> stick.com.  
 If you would copy & paste the domain inside the browser it would load up the google website.  
 
-dnsrecon -d <target_ip> 
+dnsrecon -d 10.129.161.230 -r 10.0.0.0/8
 
 dnsdumpster
 
