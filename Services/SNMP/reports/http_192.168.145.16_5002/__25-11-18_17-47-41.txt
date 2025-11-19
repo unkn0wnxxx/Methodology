@@ -1,0 +1,6 @@
+# Dirsearch started Tue Nov 18 17:48:29 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://192.168.145.16:5002/
+
+200     2KB  http://192.168.145.16:5002/console
+200    20KB  http://192.168.145.16:5002/openapi.json
+308   267B   http://192.168.145.16:5002/ui    -> REDIRECTS TO: http://192.168.145.16:5002/ui/
+200     1KB  http://192.168.145.16:5002/ui/

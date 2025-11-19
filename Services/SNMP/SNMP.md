@@ -34,6 +34,12 @@ snmpwalk -v2c -c openview 10.10.38.124 1.3.6.1.4.1.77.1.2.25
 
 In order to enumerate more potential community strings, we can utilize an tool called "snmpbrute.py".
 
+#### List Processes
+
+```
+snmpwalk -c public -v1 192.168.145.151 1.3.6.1.2.1.25.4.2.1.2
+```
+
 
 ```
 python3 snmpbrute.py -t 10.129.228.102 -f /usr/share/wordlists/SecLists/Discovery/SNMP/common-snmp-community-strings.txt

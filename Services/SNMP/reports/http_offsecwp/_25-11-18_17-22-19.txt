@@ -1,0 +1,140 @@
+# Dirsearch started Tue Nov 18 17:25:02 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://offsecwp
+
+404    37KB  http://offsecwp/+CSCOT+/oem-customization?app=AnyConnect&type=oem&platform=..&resource-type=..&name=%2bCSCOE%2b/portal_inc.lua
+403   273B   http://offsecwp/.ht_wsr.txt
+403   273B   http://offsecwp/.htaccess.bak1
+403   273B   http://offsecwp/.htaccess.orig
+403   273B   http://offsecwp/.htaccess.sample
+403   273B   http://offsecwp/.htaccess.save
+403   273B   http://offsecwp/.htaccess_extra
+403   273B   http://offsecwp/.htaccess_orig
+403   273B   http://offsecwp/.htaccess_sc
+403   273B   http://offsecwp/.htaccessBAK
+403   273B   http://offsecwp/.htaccessOLD2
+403   273B   http://offsecwp/.htaccessOLD
+403   273B   http://offsecwp/.htm
+403   273B   http://offsecwp/.html
+403   273B   http://offsecwp/.htpasswds
+403   273B   http://offsecwp/.htpasswd_test
+403   273B   http://offsecwp/.httr-oauth
+200     9KB  http://offsecwp/show_image_NpAdvCatPG.php?cache=false&cat=1&filename=
+301     0B   http://offsecwp/adm/index.php    -> REDIRECTS TO: http://offsecwp/adm/
+301     0B   http://offsecwp/admin.    -> REDIRECTS TO: http://offsecwp/admin/
+301     0B   http://offsecwp/admin/index.php    -> REDIRECTS TO: http://offsecwp/admin/
+301     0B   http://offsecwp/admin/mysql/index.php    -> REDIRECTS TO: http://offsecwp/admin/mysql/
+301     0B   http://offsecwp/admin/mysql2/index.php    -> REDIRECTS TO: http://offsecwp/admin/mysql2/
+301     0B   http://offsecwp/admin/phpMyAdmin/index.php    -> REDIRECTS TO: http://offsecwp/admin/phpMyAdmin/
+301     0B   http://offsecwp/admin/phpmyadmin2/index.php    -> REDIRECTS TO: http://offsecwp/admin/phpmyadmin2/
+301     0B   http://offsecwp/admin/phpmyadmin/index.php    -> REDIRECTS TO: http://offsecwp/admin/phpmyadmin/
+301     0B   http://offsecwp/admin/PMA/index.php    -> REDIRECTS TO: http://offsecwp/admin/PMA/
+301     0B   http://offsecwp/admin/pma/index.php    -> REDIRECTS TO: http://offsecwp/admin/pma/
+301     0B   http://offsecwp/admin2/index.php    -> REDIRECTS TO: http://offsecwp/admin2/
+301     0B   http://offsecwp/admin_area/index.php    -> REDIRECTS TO: http://offsecwp/admin_area/
+301     0B   http://offsecwp/adminarea/index.php    -> REDIRECTS TO: http://offsecwp/adminarea/
+301     0B   http://offsecwp/admincp/index.php    -> REDIRECTS TO: http://offsecwp/admincp/
+301     0B   http://offsecwp/adminer/index.php    -> REDIRECTS TO: http://offsecwp/adminer/
+301     0B   http://offsecwp/administrator/index.php    -> REDIRECTS TO: http://offsecwp/administrator/
+301     0B   http://offsecwp/apc/index.php    -> REDIRECTS TO: http://offsecwp/apc/
+301     0B   http://offsecwp/asset..    -> REDIRECTS TO: http://offsecwp/asset/
+301     0B   http://offsecwp/axis//happyaxis.jsp    -> REDIRECTS TO: http://offsecwp/axis/happyaxis.jsp/
+301     0B   http://offsecwp/axis2-web//HappyAxis.jsp    -> REDIRECTS TO: http://offsecwp/axis2-web/HappyAxis.jsp/
+301     0B   http://offsecwp/axis2//axis2-web/HappyAxis.jsp    -> REDIRECTS TO: http://offsecwp/axis2/axis2-web/HappyAxis.jsp/
+301     0B   http://offsecwp/bb-admin/index.php    -> REDIRECTS TO: http://offsecwp/bb-admin/
+301     0B   http://offsecwp/bitrix/admin/index.php    -> REDIRECTS TO: http://offsecwp/bitrix/admin/
+301     0B   http://offsecwp/Citrix//AccessPlatform/auth/clientscripts/cookies.js    -> REDIRECTS TO: http://offsecwp/Citrix/AccessPlatform/auth/clientscripts/cookies.js/
+301     0B   http://offsecwp/claroline/phpMyAdmin/index.php    -> REDIRECTS TO: http://offsecwp/claroline/phpMyAdmin/
+301     0B   http://offsecwp/db/index.php    -> REDIRECTS TO: http://offsecwp/db/
+301     0B   http://offsecwp/dbadmin/index.php    -> REDIRECTS TO: http://offsecwp/dbadmin/
+301     0B   http://offsecwp/engine/classes/swfupload//swfupload_f9.swf    -> REDIRECTS TO: http://offsecwp/engine/classes/swfupload/swfupload_f9.swf/
+301     0B   http://offsecwp/engine/classes/swfupload//swfupload.swf    -> REDIRECTS TO: http://offsecwp/engine/classes/swfupload/swfupload.swf/
+301     0B   http://offsecwp/etc/lib/pChart2/examples/imageMap/index.php    -> REDIRECTS TO: http://offsecwp/etc/lib/pChart2/examples/imageMap/
+301     0B   http://offsecwp/extjs/resources//charts.swf    -> REDIRECTS TO: http://offsecwp/extjs/resources/charts.swf/
+301     0B   http://offsecwp/html/js/misc/swfupload//swfupload.swf    -> REDIRECTS TO: http://offsecwp/html/js/misc/swfupload/swfupload.swf/
+301     0B   http://offsecwp/index.php    -> REDIRECTS TO: http://offsecwp/
+301     0B   http://offsecwp/index.php/login/    -> REDIRECTS TO: http://offsecwp/login/
+301     0B   http://offsecwp/index.php::$DATA    -> REDIRECTS TO: http://offsecwp/index.php::DATA/
+301     0B   http://offsecwp/install/index.php?upgrade/    -> REDIRECTS TO: http://offsecwp/install/?upgrade/
+301     0B   http://offsecwp/jkstatus;    -> REDIRECTS TO: http://offsecwp/jkstatus/
+404    37KB  http://offsecwp/jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system:type=ServerInfo
+200     7KB  http://offsecwp/license.txt
+301     0B   http://offsecwp/login.wdm%20    -> REDIRECTS TO: http://offsecwp/login.wdm/
+301     0B   http://offsecwp/login.wdm%2e    -> REDIRECTS TO: http://offsecwp/login.wdm/
+301     0B   http://offsecwp/modelsearch/index.php    -> REDIRECTS TO: http://offsecwp/modelsearch/
+301     0B   http://offsecwp/myadmin/index.php    -> REDIRECTS TO: http://offsecwp/myadmin/
+301     0B   http://offsecwp/myadmin2/index.php    -> REDIRECTS TO: http://offsecwp/myadmin2/
+301     0B   http://offsecwp/mysql-admin/index.php    -> REDIRECTS TO: http://offsecwp/mysql-admin/
+301     0B   http://offsecwp/mysql/index.php    -> REDIRECTS TO: http://offsecwp/mysql/
+301     0B   http://offsecwp/mysqladmin/index.php    -> REDIRECTS TO: http://offsecwp/mysqladmin/
+301     0B   http://offsecwp/New%20folder%20(2)    -> REDIRECTS TO: http://offsecwp/New%20folder%20(2/
+301     0B   http://offsecwp/panel-administracion/index.php    -> REDIRECTS TO: http://offsecwp/panel-administracion/
+301     0B   http://offsecwp/phpadmin/index.php    -> REDIRECTS TO: http://offsecwp/phpadmin/
+301     0B   http://offsecwp/phpma/index.php    -> REDIRECTS TO: http://offsecwp/phpma/
+301     0B   http://offsecwp/phpmyadmin!!    -> REDIRECTS TO: http://offsecwp/phpmyadmin/
+301     0B   http://offsecwp/phpmyadmin-old/index.php    -> REDIRECTS TO: http://offsecwp/phpmyadmin-old/
+301     0B   http://offsecwp/phpMyAdmin.old/index.php    -> REDIRECTS TO: http://offsecwp/phpMyAdmin.old/
+301     0B   http://offsecwp/phpmyadmin2/index.php    -> REDIRECTS TO: http://offsecwp/phpmyadmin2/
+301     0B   http://offsecwp/phpmyadmin/index.php    -> REDIRECTS TO: http://offsecwp/phpmyadmin/
+301     0B   http://offsecwp/phpMyAdmin/phpMyAdmin/index.php    -> REDIRECTS TO: http://offsecwp/phpMyAdmin/phpMyAdmin/
+301     0B   http://offsecwp/phpmyadmin0/index.php    -> REDIRECTS TO: http://offsecwp/phpmyadmin0/
+301     0B   http://offsecwp/phpmyadmin/phpmyadmin/index.php    -> REDIRECTS TO: http://offsecwp/phpmyadmin/phpmyadmin/
+301     0B   http://offsecwp/phpMyAdmin/index.php    -> REDIRECTS TO: http://offsecwp/phpMyAdmin/
+301     0B   http://offsecwp/phpmyadmin1/index.php    -> REDIRECTS TO: http://offsecwp/phpmyadmin1/
+301     0B   http://offsecwp/phpMyadmin_bak/index.php    -> REDIRECTS TO: http://offsecwp/phpMyadmin_bak/
+301     0B   http://offsecwp/phpMyAdminold/index.php    -> REDIRECTS TO: http://offsecwp/phpMyAdminold/
+301     0B   http://offsecwp/pma-old/index.php    -> REDIRECTS TO: http://offsecwp/pma-old/
+301     0B   http://offsecwp/PMA/index.php    -> REDIRECTS TO: http://offsecwp/PMA/
+301     0B   http://offsecwp/pma/index.php    -> REDIRECTS TO: http://offsecwp/pma/
+301     0B   http://offsecwp/PMA2/index.php    -> REDIRECTS TO: http://offsecwp/PMA2/
+301     0B   http://offsecwp/pmamy2/index.php    -> REDIRECTS TO: http://offsecwp/pmamy2/
+301     0B   http://offsecwp/pmamy/index.php    -> REDIRECTS TO: http://offsecwp/pmamy/
+301     0B   http://offsecwp/pmd/index.php    -> REDIRECTS TO: http://offsecwp/pmd/
+301     0B   http://offsecwp/rating_over.    -> REDIRECTS TO: http://offsecwp/rating_over/
+200     3KB  http://offsecwp/readme.html
+301     0B   http://offsecwp/roundcube/index.php    -> REDIRECTS TO: http://offsecwp/roundcube/
+403   273B   http://offsecwp/server-status
+403   273B   http://offsecwp/server-status/
+200     9KB  http://offsecwp/show_image_NpAdvFeaThumb.php?cache=false&cat=1&filename=
+200     9KB  http://offsecwp/show_image_NpAdvSecondaryRight.php?cache=false&cat=1&filename=
+200     9KB  http://offsecwp/show_image_NpAdvSubFea.php?cache=false&cat=1&filename=
+200     9KB  http://offsecwp/show_image_NpAdvSideFea.php?cache=false&cat=1&filename=
+200     9KB  http://offsecwp/show_image_NpAdvMainFea.php?cache=false&cat=1&filename=
+200     9KB  http://offsecwp/show_image_NpAdvInnerSmall.php?cache=false&cat=1&filename=
+200     9KB  http://offsecwp/show_image_NpAdvMainPGThumb.php?cache=false&cat=1&filename=
+200     9KB  http://offsecwp/show_image_NpAdvSinglePhoto.php?cache=false&cat=1&filename=
+301     0B   http://offsecwp/siteadmin/index.php    -> REDIRECTS TO: http://offsecwp/siteadmin/
+301     0B   http://offsecwp/sql/index.php    -> REDIRECTS TO: http://offsecwp/sql/
+301     0B   http://offsecwp/static..    -> REDIRECTS TO: http://offsecwp/static/
+301     0B   http://offsecwp/sugarcrm/index.php?module=Accounts&action=ShowDuplicates    -> REDIRECTS TO: http://offsecwp/sugarcrm/?module=Accounts&action=ShowDuplicates
+301     0B   http://offsecwp/sugarcrm/index.php?module=Contacts&action=ShowDuplicates    -> REDIRECTS TO: http://offsecwp/sugarcrm/?module=Contacts&action=ShowDuplicates
+301     0B   http://offsecwp/templates/beez/index.php    -> REDIRECTS TO: http://offsecwp/templates/beez/
+301     0B   http://offsecwp/templates/ja-helio-farsi/index.php    -> REDIRECTS TO: http://offsecwp/templates/ja-helio-farsi/
+301     0B   http://offsecwp/templates/rhuk_milkyway/index.php    -> REDIRECTS TO: http://offsecwp/templates/rhuk_milkyway/
+301     0B   http://offsecwp/tmp/index.php    -> REDIRECTS TO: http://offsecwp/tmp/
+301     0B   http://offsecwp/Trace.axd::$DATA    -> REDIRECTS TO: http://offsecwp/Trace.axd::DATA/
+301     0B   http://offsecwp/tools/phpMyAdmin/index.php    -> REDIRECTS TO: http://offsecwp/tools/phpMyAdmin/
+301     0B   http://offsecwp/typo3/phpmyadmin/index.php    -> REDIRECTS TO: http://offsecwp/typo3/phpmyadmin/
+301     0B   http://offsecwp/web.config::$DATA    -> REDIRECTS TO: http://offsecwp/web.config::DATA/
+301     0B   http://offsecwp/webadmin/index.php    -> REDIRECTS TO: http://offsecwp/webadmin/
+301     0B   http://offsecwp/web/phpMyAdmin/index.php    -> REDIRECTS TO: http://offsecwp/web/phpMyAdmin/
+301   307B   http://offsecwp/wp-admin    -> REDIRECTS TO: http://offsecwp/wp-admin/
+200     0B   http://offsecwp/wp-config.php
+400     1B   http://offsecwp/wp-admin/admin-ajax.php
+301   309B   http://offsecwp/wp-content    -> REDIRECTS TO: http://offsecwp/wp-content/
+200     0B   http://offsecwp/wp-content/
+409     3KB  http://offsecwp/wp-admin/setup-config.php
+302     0B   http://offsecwp/wp-admin/    -> REDIRECTS TO: http://offsecwp/wp-login.php?redirect_to=http%3A%2F%2Foffsecwp%2Fwp-admin%2F&reauth=1
+200   506B   http://offsecwp/wp-admin/install.php
+403   273B   http://offsecwp/wp-content/cache/
+403   273B   http://offsecwp/wp-content/plugins/akismet/admin.php
+403   273B   http://offsecwp/wp-content/plugins/akismet/akismet.php
+500     0B   http://offsecwp/wp-content/plugins/hello.php
+301     0B   http://offsecwp/wp-content/plugins/adminer/inc/editor/index.php    -> REDIRECTS TO: http://offsecwp/wp-content/plugins/adminer/inc/editor/
+403   273B   http://offsecwp/wp-includes/
+301   310B   http://offsecwp/wp-includes    -> REDIRECTS TO: http://offsecwp/wp-includes/
+200     0B   http://offsecwp/wp-includes/rss-functions.php
+200     0B   http://offsecwp/wp-cron.php
+200     2KB  http://offsecwp/wp-login.php
+302     0B   http://offsecwp/wp-signup.php    -> REDIRECTS TO: http://offsecwp/wp-login.php?action=register
+301     0B   http://offsecwp/www/phpMyAdmin/index.php    -> REDIRECTS TO: http://offsecwp/www/phpMyAdmin/
+301     0B   http://offsecwp/xampp/phpmyadmin/index.php    -> REDIRECTS TO: http://offsecwp/xampp/phpmyadmin/
+405    42B   http://offsecwp/xmlrpc.php
