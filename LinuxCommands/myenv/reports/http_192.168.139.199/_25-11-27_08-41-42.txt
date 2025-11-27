@@ -1,0 +1,6 @@
+# Dirsearch started Thu Nov 27 08:41:55 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://192.168.139.199
+
+403   312B   http://192.168.139.199/%2e%2e//google.com
+403   312B   http://192.168.139.199/.%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd
+403   312B   http://192.168.139.199/\..\..\..\..\..\..\..\..\..\etc\passwd
+403   312B   http://192.168.139.199/cgi-bin/.%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd
