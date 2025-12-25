@@ -1,17 +1,21 @@
 # Authorized File Transfer
 
+---
 
-
-Downloading an file onto my local machine utilizing authenticated ssh.
+## Downloading 
 
 ```
 scp lnorgaard@keeper.htb:/home/lnorgaard/passcodes.kdbx .
 ```
 
-Uploading an file onto an server utilizing authenticated ssh.
+## Uploading
 
 ```
 scp PrintSpoofer64.exe david@target.ine.local:"C:\\Users\\david\\" --> e.G with ssh
+```
+
+```
+scp -O /home/saitama/Desktop/Exploiting/OSCP_Prep/ProvingGrounds/Linux/Sorcerer/home/max/.ssh/authorized_keys max@192.168.130.100:/home/max/.ssh/authorized_keys
 ```
 
 Retrieved both files
@@ -23,19 +27,3 @@ KeePassDumpFull.dmp                                                           10
 ```
 
 There is an tool called kdbx2john which allows us to convert the .kdbx file into hash format, with the .hash file we could potentially bruteforce an user password with john the ripper.
-
-```
-
-```
-
-
-
-```
-
-```
-
-
-
-```
-
-```

