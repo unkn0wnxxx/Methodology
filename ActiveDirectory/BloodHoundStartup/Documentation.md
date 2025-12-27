@@ -37,7 +37,3 @@ Logged into http://127.0.0.1:8080 (I also had to terminate Burp Proxy since it l
 Logged in with admin:HonorShard302!
 
 Navigated to the left tab > Quick Upload > Selected all the .json files we received earlier.
-
-```
-
-```
