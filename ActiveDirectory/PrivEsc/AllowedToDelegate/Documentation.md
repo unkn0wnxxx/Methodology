@@ -2,6 +2,8 @@
 
 ---
 
+## Syntax
+
 When in BloodHound "AllowedToDelegate" is set, we can abuse the following command to gain elevated privs:
 
 ```
