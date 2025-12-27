@@ -82,7 +82,6 @@ Cached Tickets: (1)
  
 Save the ticket in an ticket.b64 file locally & base64 decode it afterwards and save it in an .kirbi file.
 
-
 ```
 nano ticket.b64
 cat ticket.b64 | base64 -d > ticket.kirbi
