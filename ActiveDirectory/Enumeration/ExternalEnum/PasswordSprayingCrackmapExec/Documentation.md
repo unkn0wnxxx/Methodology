@@ -6,7 +6,7 @@
 
 Assuming we have dumped sensitive files and gained an list of usernames & hashes, we can utilize the following in order to create wordlists & also perform password spraying.
 
-1) Created userlist.
+1) Created user-list.
 
 ```
 cat hashes | cut -d ":" -f1 | tee users.txt
