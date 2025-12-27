@@ -2,6 +2,8 @@
 
 ---
 
+## Syntax
+
 When in BloodHound ForceChangePassword or GenericAll is set,
 we can abuse this command to change the password of an high priv user.
 
