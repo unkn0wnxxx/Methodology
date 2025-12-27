@@ -7,6 +7,8 @@ This means that the account does not need to provide valid identification before
 Kerberos Ticket on the specified user account.
 
 
+## Syntax
+
 Utilizing impacket-GetNPUsers will give us the TGT of users with this privileges set.
 
 ```
