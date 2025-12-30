@@ -12,6 +12,8 @@ When an binary isn't able to execute because an module is missing .h or .so file
 
 Creating malicious .c script locally.
 
+Note: that if we have information on an error, or output that it requires an "init_plugin" or another name, change the function name from _init to "init_plugin".
+
 ```
 #include <stdio.h>
 #include <sys/types.h>
