@@ -81,19 +81,30 @@ Get-ItemProperty "HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\*" |
 Check Downloads Directories.
 ```
 
-## Running processes
-
-
-```
-netstat -ano
-```
+## Running Services
 
 ```
 ss -tulnp
 ```
 
-In PowerShell
+```
+netstat -ano
+```
 
+## Running processes
+
+
+```
+tasklist /v
+```
+
+More efficient 
+
+```
+wmic process get name,processid,executablepath
+```
+
+In PowerShell
 
 ```
 Get-Process
