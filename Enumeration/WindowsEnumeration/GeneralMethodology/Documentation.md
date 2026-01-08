@@ -91,6 +91,12 @@ ss -tulnp
 netstat -ano
 ```
 
+Checking for running and stopping services.
+
+```
+Get-CimInstance -ClassName win32_service | Select Name,State,PathName
+```
+
 ## Running processes
 
 

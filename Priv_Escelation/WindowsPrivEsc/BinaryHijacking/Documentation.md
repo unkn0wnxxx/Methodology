@@ -6,6 +6,12 @@ If we have full access on an .exe, we can replace it with an malicious binary to
 
 ## PoC
 
+Query System Services.
+
+```
+Get-CimInstance -ClassName win32_service | Select Name,State,PathName | Where-Object {$_.State -like 'Running'}
+```
+
 ```
 PS C:\Users\dave> icacls "C:\xampp\mysql\bin\mysqld.exe"
 C:\xampp\mysql\bin\mysqld.exe NT AUTHORITY\SYSTEM:(F)
