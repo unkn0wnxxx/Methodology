@@ -6,8 +6,16 @@ Once the command is executed, we get a huge amount of output with information ab
 
 ## Syntax
 
+Enumerating Tasks in PowerShell
+
 ```
-schtasks /query /fo LIST /v
+Get-ScheduledTask
+```
+
+In Windows CLI
+
+```
+schtasks /query /fo LIST /v | findstr /B /C:"Folder" /C:"TaskName" /C:"Run As User" /C:"Schedule" /C:"Scheduled Task State" /C:"Schedule Type" /C:"Repeat: Every" /C:"Comment"
 ...
 Folder: \Microsoft
 HostName:                             CLIENTWK220

@@ -1,0 +1,23 @@
+# Dirsearch started Fri Jan  9 05:09:59 2026 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://192.168.246.53:4443/dashboard
+
+403     1KB  http://192.168.246.53:4443/dashboard/%3f/
+403     1KB  http://192.168.246.53:4443/dashboard/%C0%AE%C0%AE%C0%AF
+403     1KB  http://192.168.246.53:4443/dashboard/%ff
+403     1KB  http://192.168.246.53:4443/dashboard/.ht_wsr.txt
+403     1KB  http://192.168.246.53:4443/dashboard/.htaccess_orig
+403     1KB  http://192.168.246.53:4443/dashboard/.htaccess.orig
+403     1KB  http://192.168.246.53:4443/dashboard/.htaccess.save
+403     1KB  http://192.168.246.53:4443/dashboard/.htaccess.sample
+403     1KB  http://192.168.246.53:4443/dashboard/.htaccessOLD
+403     1KB  http://192.168.246.53:4443/dashboard/.htaccessOLD2
+403     1KB  http://192.168.246.53:4443/dashboard/.htaccessBAK
+403     1KB  http://192.168.246.53:4443/dashboard/.htaccess_extra
+403     1KB  http://192.168.246.53:4443/dashboard/.htm
+403     1KB  http://192.168.246.53:4443/dashboard/.html
+403     1KB  http://192.168.246.53:4443/dashboard/.htaccess_sc
+403     1KB  http://192.168.246.53:4443/dashboard/.htaccess.bak1
+403     1KB  http://192.168.246.53:4443/dashboard/.htpasswd_test
+403     1KB  http://192.168.246.53:4443/dashboard/.htpasswds
+403     1KB  http://192.168.246.53:4443/dashboard/.httr-oauth
+200     4KB  http://192.168.246.53:4443/dashboard/404.html
+301   354B   http://192.168.246.53:4443/dashboard/de    -> REDIRECTS TO: http://192.168.246.53:4443/dashboard/de/
