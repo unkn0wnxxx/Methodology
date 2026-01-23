@@ -33,7 +33,7 @@ bloodhound
 ```
 
 In order for bloodhound to work I had to reinstall it manually in an docker environment.
-Logged into http://127.0.0.1:8080 (I also had to terminate Burp Proxy since it listens on port 8080).
+Logged into http://127.0.0.1:9090/ui
 Logged in with admin:HonorShard302!
 
 Navigated to the left tab > Quick Upload > Selected all the .json files we received earlier.
